@@ -1,0 +1,51 @@
+recap
+
+
+science?
+set of rules (knowlegde)
+
+engingeering?
+designing(not coding) a solution for a new problem (using the knowldge of science or your common sense or out of box thinking)
+
+keep it simple
+
+
+technology?
+the tool (or solution) engineered for solving a problem is called technology. 
+
+craft?
+conventional skills that are passed from generation to generation like pottery, cobbler, wood work
+
+commercial production?
+the replication or mass production of a technology
+
+
+software are more expensive than hardwares?
+in hardware, you just make one new product and then go for mass production. so it was just one time effort.
+in software's case, you always design a new software. you need man power working hours.
+
+
+method = sequence of steps to perform a task.(recipe) Examle steps to compute factorial (algo)
+tool = help out the method to perform the task. Example c++
+procedure = method + tool (the detailed process involving method and tool) = (the code in c++ for factorial)
+paradigm = philosphy which drives your procedures (like OOP or (procedural or function oriented)) 
+
+Bug:
+is a generic terrm if the software is not working
+
+error: human mistake (cusomer asked you to multiple two numbers, but undertood it wrong as addition of two numbers)
+ 
+fault : due to human mistake, your software may have some fault, (now your software has implemented addition operation )
+
+failure: the software does not behave as desired or required ( when the customer used or tested your software, he reported that is not working as desired, it is adding instead of multiplying)
+
+
+
+
+
+
+
+
+
+
+
